@@ -3543,7 +3543,7 @@ cypress-expect@2.1.2:
     arg "4.1.3"
     debug "4.2.0"
 
-cypress-react-unit-test@^4.16.1:
+cypress-react-unit-test@4.16.1:
   version "4.16.1"
   resolved "https://registry.yarnpkg.com/cypress-react-unit-test/-/cypress-react-unit-test-4.16.1.tgz#a9d8ab473e78346a02ba79ce803489a232397b7d"
   integrity sha512-7cgQ+VeBySE+KjDLZVs+NBJHcJipW7ZfmOvwxhEaEVDxk2cjIE4P3W6Gg3u8WRNo/4dTaPq5dyFAhSdMzpIQ2w==
@@ -3562,7 +3562,7 @@ cypress-react-unit-test@^4.16.1:
     semver "7.3.2"
     unfetch "4.1.0"
 
-cypress@^5.4.0:
+cypress@5.4.0:
   version "5.4.0"
   resolved "https://registry.yarnpkg.com/cypress/-/cypress-5.4.0.tgz#8833a76e91129add601f823d43c53eb512d162c5"
   integrity sha512-BJR+u3DRSYMqaBS1a3l1rbh5AkMRHugbxcYYzkl+xYlO6dzcJVE8uAhghzVI/hxijCyBg1iuSe4TRp/g1PUg8Q==
