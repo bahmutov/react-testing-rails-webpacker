@@ -1,6 +1,6 @@
 # react-testing-rails-webpacker
 
-![cypress version](https://img.shields.io/badge/cypress-5.4.0-brightgreen) ![cypress-react-unit-test version](https://img.shields.io/badge/cypress--react--unit--test-4.16.0-brightgreen)
+![cypress version](https://img.shields.io/badge/cypress-5.4.0-brightgreen) ![cypress-react-unit-test version](https://img.shields.io/badge/cypress--react--unit--test-4.16.1-brightgreen)
 
 This is a app generated using [@rails/webpacker](https://github.com/rails/webpacker) with react and typescript defaults and using [cypress-react-unit-test](https://github.com/bahmutov/cypress-react-unit-test) to write React component tests
 
