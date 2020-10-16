@@ -20,9 +20,10 @@
   "version": "0.1.0",
   "devDependencies": {
     "cypress": "^5.4.0",
+    "cypress-expect": "2.1.2",
     "cypress-react-unit-test": "^4.16.0",
-    "webpack-dev-server": "^3.11.0",
-    "dependency-version-badge": "1.5.0"
+    "dependency-version-badge": "1.5.0",
+    "webpack-dev-server": "^3.11.0"
   },
   "scripts": {
     "test": "cypress-expect run --passing 1",
